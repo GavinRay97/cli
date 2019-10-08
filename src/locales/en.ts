@@ -228,6 +228,8 @@ export default {
     "plugin_install_cant_download": "Can't download plugin with name {{- name }}",
     "plugin_successfully_install": "Plugin {{- name }} successfully installed to your project.",
 
+    "plugins_with_name_already_defined": "Plugin with name {{- name }} already defined",
+
     "plugin_remove_describe": "Remove plugin from the project.",
     "plugin_remove_usage": "COMMAND\n  8base plugin remove [name]\n\nDESCRIPTION\n  Remove plugin from the project.",
     "plugin_remove_name_describe": "The name of the plugin",
